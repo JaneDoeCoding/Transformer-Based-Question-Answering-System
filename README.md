@@ -116,10 +116,7 @@ Dataset highlights:
 •	Experiments:
 
   	LoRA parameter-efficient fine-tuning
-  
-  	Compare tiny vs base model sizes
-  
-  	Record training time, number of parameters, and performance trade-offs
+
 
 5.5 Interactive Demo
 
