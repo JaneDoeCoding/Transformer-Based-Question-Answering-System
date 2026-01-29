@@ -113,7 +113,7 @@ Dataset highlights:
 
 •	Compare zero-shot vs fine-tuned performance on a subset of the validation set
 
-•	Optional experiments:
+•	Experiments:
 
   	LoRA parameter-efficient fine-tuning
   
