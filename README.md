@@ -29,8 +29,7 @@ This project is a hands-on way to learn how Transformers work for both extractiv
 
 SQuAD 2.0 dataset (available from Hugging Face Datasets)
 
-
-  datasets.load_dataset("squad_v2")
+	datasets.load_dataset("squad_v2")
 
 
 Dataset highlights:
