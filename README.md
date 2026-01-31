@@ -127,7 +127,9 @@ Set a fixed random seed for reproducibility: torch.manual_seed(42)
 
 7.Analysis & Reflections
 
-Compare model performance in a table: Perplexity / Eval Loss / Trainable Parameters
+Compare model performance in a table: 
+<img width="883" height="320" alt="image" src="https://github.com/user-attachments/assets/12c30f48-dba8-4d8d-bf27-6b3e97ddcbd7" />
+
 
 Challenges encountered: handling long passages, unanswerable questions
 
